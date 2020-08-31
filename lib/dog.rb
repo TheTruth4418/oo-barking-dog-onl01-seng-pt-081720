@@ -4,7 +4,7 @@ class Dog
   end
 
   def name
-    puts @dogs_name
+    return @dogs_name
   end
 
   def bark
